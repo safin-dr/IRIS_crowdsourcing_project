@@ -1,0 +1,16 @@
+torch==2.4.0
+torchvision
+
+scikit-learn
+xgboost
+
+plotly
+matplotlib
+seaborn
+
+pandas
+tqdm
+PIL
+
+toloka-kit
+crowd-kit
